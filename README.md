@@ -1,16 +1,33 @@
 ### Hi there 👋🪐
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCr-g%C3%B6gersin-76304035/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<h1>
+Welcome to my Github Profile Page
+</h1>
+</div>
 
-<!--
-**ozgurgogersin/ozgurgogersin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"  alt="Java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"  alt="Intelli" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"  alt="Html5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"  alt="Selenium" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" alt="TestNG" width="70" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"  alt="Cucumber" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.ambient-it.net/wp-content/uploads/2022/05/Logo-Apache-Maven.png" alt="Apache Maven" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Apache_POI_project_logo_%282018%29.svg/487px-Apache_POI_project_logo_%282018%29.svg.png" alt="ApachePOI" width="80" height="20"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://nehajain216.github.io/img/jdbc.png" alt="JDBC" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="RestAssured" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" alt="Jenkins" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>&nbsp;
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
