@@ -1,13 +1,14 @@
-### Hello World 👋🪐
 <img src="https://github.com/ozgurgogersin/ozgurgogersin/blob/main/githubprofile.gif"  alt="Java" width="900" height="300"/>
+
+---
+<h1 align="center">👋Hi There, Welcome to my Github Profile Page 🪐</h1>
+<h4 align="center">SDET | QA Engineer</h4>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ozgurgogersin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h1>
-Welcome to my Github Profile Page
-</h1>
+
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
