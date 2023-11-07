@@ -1,4 +1,4 @@
-### Hi there 👋🪐
+### Hello World 👋🪐
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCr-g%C3%B6gersin-76304035/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
