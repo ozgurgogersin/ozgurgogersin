@@ -1,7 +1,7 @@
 <img src="https://github.com/ozgurgogersin/ozgurgogersin/blob/main/githubprofile.gif"  alt="Java" width="900" height="300"/>
 
 ---
-<h2 align="center">👋 Welcome to my GitHub Universe! 🪐 Let's explore together. 🚀</h1>
+<h2 align="center">👋 Welcome to my GitHub Universe! 🪐 Exploring testing and automation. I'm on the lookout for exciting opportunities. Let's connect and collaborate! 🚀</h1>
 <h4 align="center">SDET | QA Engineer</h4>
 <div id="badges" align="right">
   <a href="https://www.linkedin.com/in/ozgurgogersin/">
