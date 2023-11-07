@@ -2,7 +2,7 @@
 
 ---
 <h2 align="center">👋 Welcome to my GitHub Universe! 🪐 Exploring testing and automation. I'm on the lookout for exciting opportunities. Let's connect and collaborate! 🚀</h1>
-<h4 align="center">SDET | QA Engineer</h4>
+<h4 align="center">SDET | QA Manual/Automation Tester</h4>
 <div id="badges" align="right">
   <a href="https://www.linkedin.com/in/ozgurgogersin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
