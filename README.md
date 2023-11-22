@@ -3,7 +3,7 @@
 ---
 <h2 align="center">👋 Welcome to my GitHub Universe! 🪐 Exploring testing and automation. I'm on the lookout for exciting opportunities. Let's connect and collaborate! 🚀</h1>
 <h4 align="center">SDET | QA Manual/Automation Tester</h4>
-<div id="badges" align="right">
+<div id="badges" align="center">
    <a href="mailto:ozgurgogersin@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" height="30"/>
   </a>
