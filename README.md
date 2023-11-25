@@ -36,9 +36,14 @@
 
 ---
 
-### :fire: My Stats :
+<details>
+  <summary>:fire: GitHub Stats</summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurgogersin&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ozgurgogersin&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats)
 [![Lee Stott GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgurgogersin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
 
 
 ---
